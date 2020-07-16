@@ -1,0 +1,143 @@
+[Profiles]
+	[VB6.EXE]
+	[/]
+	[DEFAULT]
+		Stardate=-310821.13894
+		[DPAD UP]
+			ColorValue=39421
+			MissingData=False
+			Color=LIGHT BLUE
+			ActionType=MOUSE
+			CTRL=NO
+			ALT=NO
+			Button=MOVE UP
+		[/]
+		[DPAD LEFT]
+			ColorValue=39421
+			MissingData=False
+			Color=LIGHT BLUE
+			ActionType=MOUSE
+			CTRL=NO
+			ALT=NO
+			Button=MOVE LEFT
+		[/]
+		[DPAD RIGHT]
+			ColorValue=39421
+			MissingData=False
+			Color=LIGHT BLUE
+			ActionType=MOUSE
+			CTRL=NO
+			ALT=NO
+			Button=MOVE RIGHT
+		[/]
+		[DPAD DOWN]
+			ColorValue=39421
+			MissingData=False
+			Color=LIGHT BLUE
+			ActionType=MOUSE
+			CTRL=NO
+			ALT=NO
+			Button=MOVE DOWN
+		[/]
+		[CROSS]
+			ColorValue=39421
+			MissingData=False
+			Color=LIGHT BLUE
+			ActionType=KEYBOARD
+			CTRL=NO
+			ALT=NO
+			Button=DOWN
+		[/]
+		[CIRCLE]
+			ColorValue=39421
+			MissingData=False
+			Color=LIGHT BLUE
+			ActionType=KEYBOARD
+			CTRL=NO
+			ALT=NO
+			Button=RIGHT
+		[/]
+		[SQUARE]
+			ColorValue=39421
+			MissingData=False
+			Color=LIGHT BLUE
+			ActionType=KEYBOARD
+			CTRL=NO
+			ALT=NO
+			Button=LEFT
+		[/]
+		[TRIANGLE]
+			ColorValue=39421
+			MissingData=False
+			Color=LIGHT BLUE
+			ActionType=KEYBOARD
+			CTRL=NO
+			ALT=NO
+			Button=UP
+		[/]
+		[L SHOULDER]
+			ColorValue=39421
+			MissingData=True
+		[/]
+		[R SHOULDER]
+			ColorValue=39421
+			MissingData=True
+		[/]
+		[START]
+			ColorValue=39421
+			MissingData=False
+			Color=LIGHT BLUE
+			ActionType=KEYBOARD
+			CTRL=NO
+			ALT=NO
+			Button=ENTER
+		[/]
+		[SELECT]
+			ColorValue=39421
+			MissingData=True
+		[/]
+		[MENU]
+			ColorValue=39421
+			MissingData=True
+		[/]
+		[VOL UP]
+			ColorValue=39421
+			MissingData=False
+			Color=LIGHT BLUE
+			ActionType=MEDIAKEY
+			CTRL=NO
+			ALT=NO
+			Button=VOLUME UP
+		[/]
+		[VOL DOWN]
+			ColorValue=39421
+			MissingData=False
+			Color=LIGHT BLUE
+			ActionType=MEDIAKEY
+			CTRL=NO
+			ALT=NO
+			Button=VOLUME DOWN
+		[/]
+	[/]
+	[MPC-HC.EXE]
+		Stardate=-310576.37282
+		[PLAY]
+			ColorValue=16777215
+			MissingData=False
+			Color=LIGHT BLUE
+			ActionType=MEDIAKEY
+			CTRL=NO
+			ALT=NO
+			Button=PLAY/PAUSE
+		[/]
+	[/]
+[/]
+[Settings]
+	[Defaults]
+		IP0=192
+		IP1=168
+		IP2=1
+		IP3=103
+		Port=8080
+	[/]
+[/]
